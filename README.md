@@ -120,3 +120,7 @@ Untuk produk baru yang ditambah via Admin Panel, isi field gambar dengan path `i
 - **Tailwind CSS** (via CDN) — Styling dan responsivitas
 - **JavaScript ES6+** — Logika aplikasi tanpa framework
 - **LocalStorage** — Penyimpanan data persisten di browser
+
+
+## Link Demo 
+https://flixflaxx.github.io/Masduki_UTS_WEB2/
